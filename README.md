@@ -6,7 +6,7 @@ A new Flutter application.
 <img src="https://user-images.githubusercontent.com/59611415/112641416-61979880-8e68-11eb-9c5a-65c5753dd136.gif" height =400>
 
 # Android Screen
-<img height="400px" src="https://user-images.githubusercontent.com/59611415/112641669-960b5480-8e68-11eb-85f1-3a0ea3018435.png"> <img height="400px" src="(https://user-images.githubusercontent.com/59611415/112641854-c3f09900-8e68-11eb-9a45-a292bf96f591.png">
+<img height="400px" src="https://user-images.githubusercontent.com/59611415/112641669-960b5480-8e68-11eb-85f1-3a0ea3018435.png"> <img height="400px" src="https://user-images.githubusercontent.com/59611415/112641854-c3f09900-8e68-11eb-9a45-a292bf96f591.png">
 
 
 ## Getting Started
